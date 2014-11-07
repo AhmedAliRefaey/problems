@@ -14,6 +14,7 @@ namespace getproductsofallintsexceptatindex
 
         public static int[] getproductsofallintsexceptatindex(int[] a)
         {
+
             int[] b = new int[4];
            
             for (int i = 0; i < a.Length; i++)
